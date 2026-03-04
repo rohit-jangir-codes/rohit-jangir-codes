@@ -5,7 +5,7 @@
 ### 🚀 Backend Software Engineer | Microservices | Cloud-Native | Distributed Systems
 
 [![Email](https://img.shields.io/badge/Email-rohitjangir379%40outlook.com-blue?style=flat&logo=microsoft-outlook)](mailto:rohitjangir379@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/rohit-jangir-s-codes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/rohit-jangir-s-codes)
 [![GitHub](https://img.shields.io/badge/GitHub-rohit--jangir--codes-181717?style=flat&logo=github)](https://github.com/rohit-jangir-codes)
 [![Location](https://img.shields.io/badge/📍-Bangalore%2C%20India-green?style=flat)](#)
 
@@ -134,7 +134,7 @@ MVJ College of Engineering, Bangalore | *Graduated: July 2022*
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-rohitjangir379%40outlook.com-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:rohitjangir379@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-jangir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-jangir-s-codes)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/rohit-jangir-codes)
 
 </div>
