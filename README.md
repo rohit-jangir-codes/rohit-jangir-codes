@@ -113,8 +113,7 @@ MVJ College of Engineering, Bangalore | *Graduated: July 2022*
 
 - 🥇 **Bravo Award** — NagraVision India Pvt Ltd  
   Recognized for production ownership, critical issue resolution, and system performance improvements
-- 🌟 **Transformed By Uplers**
-
+  
 ---
 
 ## 📊 GitHub Stats
