@@ -20,7 +20,7 @@
 - 🔭 Currently building and scaling microservices at **Nagravision India Pvt Ltd**
 - ☁️ Passionate about **cloud-native architecture**, **event-driven systems**, and **platform reliability**
 - 🛠️ Strong ownership across system design, modernization, performance optimization, and production stability
-- 📍 Based in **Bangalore, India** | 3.5+ Years of Experience
+- 📍 Based in **Bangalore, India** | 4+ Years of Experience
 
 ---
 
